@@ -1,0 +1,2 @@
+def Command(command):
+    pass
