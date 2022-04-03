@@ -1,0 +1,24 @@
+Exsploratory Version: Pre-Build 0.0.1
+
+Description:
+		A 2-D game based in a Command line graphical interface.
+	The games basic looks refrence a simple game called rogue.
+	The simple UI with verious missions and events that take
+	place allow a player to explore and discover new items and
+	levels.
+	
+Levels:
+	Trial
+	
+Items:
+	Sticks
+	Berries
+	Venom
+	Poisoned Sticks
+	
+Mobs:
+	Snakes
+	
+Agriculture:
+	Plants
+	
