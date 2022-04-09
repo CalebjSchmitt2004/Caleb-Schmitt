@@ -1,0 +1,3 @@
+C:\Users\Caleb\Desktop\Other Languages\Java Script\Hello\obj\Debug\Hello.njsproj.AssemblyReference.cache
+C:\Users\Caleb\Desktop\Other Languages\Java Script\Hello\obj\Debug\Hello.njsproj.CoreCompileInputs.cache
+C:\Users\Caleb\Desktop\Other Languages\Java Script\Hello\bin\Microsoft.NodejsTools.WebRole.dll

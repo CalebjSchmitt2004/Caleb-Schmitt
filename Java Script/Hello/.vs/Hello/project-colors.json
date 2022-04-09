@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f04c7706-21e9-400a-9690-781c0c25d413": {
+      "ProjectGuid": "f04c7706-21e9-400a-9690-781c0c25d413",
+      "DisplayName": "Hello",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
